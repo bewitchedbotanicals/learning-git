@@ -5,4 +5,4 @@
 * git add - Places one or more files in the staging area
 * git commit - Commits changes to head (but not yet to the remote repository) 
 * git diff - Displays the different versions in document
-* git log - Shows the history of what you have added and committed
+* git log - Displays the history of what you have added and committed
